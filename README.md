@@ -1,2 +1,2 @@
-# Curios_Cat
+# Curios Cat
 SQL-injection and Security tool
