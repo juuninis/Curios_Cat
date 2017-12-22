@@ -1,2 +1,2 @@
-# Curious Cat
-SQL-injection and Security tool
+# SQLi-diot
+개발중입니다...
